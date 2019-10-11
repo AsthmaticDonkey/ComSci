@@ -1,0 +1,9 @@
+main.cpp - Driver class
+Image.h & Image.cpp - Image container/handler
+
+Copile with running: make
+
+Run the following code to mask the standard lenna, only showing her hat:
+./imageops -l Lenna_standard.pgm Lenna_hat_mask.pgm out.pgm
+
+Other commands work similarly and work as requested by the tut sheet

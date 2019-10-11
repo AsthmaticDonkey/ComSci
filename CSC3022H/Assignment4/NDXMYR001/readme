@@ -1,0 +1,7 @@
+The Image.h file is the only header file. It contains the header for the Image class
+and a nested iterator class. 
+
+Within th Image class i created the operator methods as instructed. The iterator had a
+increment, decrement and comparison operators.
+
+
